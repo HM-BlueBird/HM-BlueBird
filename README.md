@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning java, golang,etc.
 - 💞️ I’m looking to collaborate on github or discord
 - 📫 How to reach me u can dm me on Discord : bluebird#3006
+- 📫 How to reach me u can dm me on Telegram : t.me/bluetesting
 
 <!---
 HM-BlueBird/HM-BlueBird is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
